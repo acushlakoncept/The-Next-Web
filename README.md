@@ -1,18 +1,21 @@
+# The Next Web Webpage Clone
 
-# The-Next-Web
+The goal of this project is to build a responsive clone of [The Next Web website](https://thenextweb.com/)
 
-The goal of this project is to build a responsive clone of The Next Web website
+> In this project, we made use of Grids, Flexbox and Positions and layout elements on the page correctly.
 
+> Media queries were used to target different screen sizes in order for us to effectively and efficiently let the website fit correctly to each screen sizes.
 
+> Building this project was fun as we practiced different css rules and effectively combine grids, flex and position.
 
-![screenshot](#)
+![screenshot](./img/screenshot.jpg)
+![screenshot](./img/screenshot-mobile.jpg)
 
 This project covers the following HTML and CSS3 concepts
 
-- Using images as a background
-- Adding gradients to elements
-- Relative and absolute positioning
+- Fixed, relative and absolute positioning
 - Flex and Grid
+- Responsive Design concepts using media queries
 
 ## Built With
 
@@ -23,7 +26,7 @@ This project covers the following HTML and CSS3 concepts
 
 ## Live Demo
 
-[Live Demo Link](#)
+[Live Demo Link](https://raw.githack.com/vmwhoami/The-Next-Web/feature-home/index.html)
 
 ## Getting Started
 
@@ -35,6 +38,7 @@ $ cd <folder>
 
 ```
 $ git clone https://github.com/vmwhoami/The-Next-Web
+
 ```
 
 ## Authors
@@ -47,9 +51,9 @@ $ git clone https://github.com/vmwhoami/The-Next-Web
 
 **Vitalie Melnic**
 
-- [github](https://github.com/vmwhoami)
-- [LinkedIn](https://www.linkedin.com/in/vitalie-melnic-5802198a/)
-- [twitter](https://twitter.com/vmwhoami)
+- Github: [github](https://github.com/vmwhoami)
+- Twitter: [LinkedIn](https://www.linkedin.com/in/vitalie-melnic-5802198a/)
+- Linkedin: [twitter](https://twitter.com/vmwhoami)
 
 ## 🤝 Contributing
 
